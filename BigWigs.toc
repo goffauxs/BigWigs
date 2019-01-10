@@ -78,6 +78,7 @@ Plugins\Proximity.lua
 Plugins\Ignite.lua
 Plugins\WorldBuffTimers.lua
 Plugins\ScorchTimer.lua
+Plugins\IgniteTimer.lua
 Plugins\FRBuffMacro.lua
 Plugins\Farclip.lua
 Plugins\FrostBlast.lua
