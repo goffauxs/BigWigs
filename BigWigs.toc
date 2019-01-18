@@ -83,6 +83,7 @@ Plugins\FRBuffMacro.lua
 Plugins\Farclip.lua
 Plugins\FrostBlast.lua
 Plugins\Pulltimer.lua
+Plugins\PowerInfusionHandler.lua
 
 Raids\ZG\Arlokk.lua
 Raids\ZG\Jeklik.lua
